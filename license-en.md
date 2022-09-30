@@ -6,9 +6,7 @@ These license terms are an agreement between you and Shanghai Lansan Technology 
 
 IF YOU COMPLY WITH THESE LICENSE TERMS, YOU HAVE THE RIGHTS BELOW.
 
-### INSTALLATION AND USE RIGHTS.
-
-#### General.
+#### Installation and use rights.
 
 You can use up to 3 copies of the software for your personal or work usage. You need to purchase extra license to every 3 installations.
 
@@ -18,11 +16,11 @@ You can use up to 3 copies of the software for your personal or work usage. You 
 The uses permitted above include use of the software in demonstrating your applications.
 
 
-#### FEEDBACK.
+#### Feedback.
 
 If you give feedback about the software to Lansan Tech, you give to Lansan Tech, without charge, the right to use, share and commercialize your feedback in any way and for any purpose. You will not give feedback that is subject to a license that requires Lansan Tech to license its software or documentation to third parties because we include your feedback in them. These rights survive this agreement.
 
-#### SCOPE OF LICENSE.
+#### Scope of license.
 
 This license applies to Layer Mixer product. The software is licensed, not sold. This agreement only gives you some rights to use the software. Lansan Tech reserves all other rights. Unless applicable law gives you more rights despite this limitation, you may use the software only as expressly permitted in this agreement. In doing so, you must comply with any technical limitations in the software that only allow you to use it in certain ways.
 
@@ -33,11 +31,10 @@ You may not
 - share, publish, rent or lease the software, or provide the software as a stand-alone offering for others to use.
 
 
-#### DISCLAIMER OF WARRANTY.
+#### Disclaimer of warranty.
 
 The software is licensed “as-is.” You bear the risk of using it. Lansan Tech gives no express warranties, guarantees or conditions. To the extent permitted under your local laws, Lansan Tech excludes the implied warranties of merchantability, fitness for a particular purpose and non-infringement.
 
-#### LIMITATION ON AND EXCLUSION OF DAMAGES.
+#### Limitation on and exclusion of damages.
 
 You can recover from Lansan Tech and its suppliers only direct damages up to U.S. $1.00. You cannot recover any other damages, including consequential, lost profits, special, indirect or incidental damages.
-
