@@ -4,7 +4,7 @@ Your privacy is important to Lansan Tech. This privacy statement provides inform
 
 Personal Information Collection
 
-Lansan Tech doesn't collect user information from Layer Mixer.
+Except  the email address you use to purchase product, Lansan Tech doesn't collect user information from Layer Mixer.
 
 Updates
 
